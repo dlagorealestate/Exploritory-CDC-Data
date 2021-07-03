@@ -10,7 +10,7 @@ Over the past year and a half the Covid-19 pandemic had touched a lot of lives a
 ![image](https://user-images.githubusercontent.com/78933826/124336938-247d2980-db6e-11eb-8a27-c5db06fe8d97.png) ![image](https://user-images.githubusercontent.com/78933826/124336968-4bd3f680-db6e-11eb-9ca3-811a75ab594f.png)
 
 
-Data Analysist Team:  Luis Acevedo, David Lago, Susanna Correia, Zarneisha Browning, Maurice Beckford
+Data Analyst Team:  Luis Acevedo Jr., David Lago, Susanna Correia, Zarneisha Browning, Maurice Beckford
 
 
  
