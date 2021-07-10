@@ -12,7 +12,7 @@ Over the past year and a half the Covid-19 pandemic had touched a lot of lives a
 
 Data Analyst Team:  Luis Acevedo Jr., David Lago, Susanna Correia, Zarneisha Browning, Maurice Beckford
 
-![image]FLNumbers<img width="362" alt="FLNumbers" src="https://user-images.githubusercontent.com/78492568/125146916-7d146f80-e0f6-11eb-9a25-e89b72863bdd.png">
+![image]/(FlNumbers.png)
 
 
  
