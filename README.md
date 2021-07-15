@@ -20,5 +20,5 @@ Data Analyst Team:  Luis Acevedo Jr., David Lago, Susanna Correia, Zarneisha Bro
 ![image](Images/FlDeathYN.png)
 
 
-
+### After getting the information from Tableau, the group has decided to drop the information for age groups under 65, and also add more features to the dataset.
  
