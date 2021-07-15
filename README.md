@@ -17,6 +17,7 @@ Data Analyst Team:  Luis Acevedo Jr., David Lago, Susanna Correia, Zarneisha Bro
 
 ![image](Images/FLNumbers.png) 
 ![image](Images/Fl65+.png)
+![image](Images/FlDeathYN.png)
 
 
 
