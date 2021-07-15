@@ -15,7 +15,7 @@ Data Analyst Team:  Luis Acevedo Jr., David Lago, Susanna Correia, Zarneisha Bro
 ## Tableau Data
 
 
-![image](Images/FloridaNumbers.png)
+![image](Images/FlNumbers.png)
 
 
 
