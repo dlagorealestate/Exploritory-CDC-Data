@@ -22,3 +22,11 @@ Data Analyst Team:  Luis Acevedo Jr., David Lago, Susanna Correia, Zarneisha Bro
 
 * After getting the data visualization from Tableau, the group has decided to drop the data for age groups under 65 since there were almost no deaths to that groups. We have also decided to add more features to the dataset.
  
+## Machine Learning Model
+
+* A Neural network model using sk-learn and TensorFlow is used to explore the dataset.
+
+ 
+## Database
+
+* A Postgres database using AWS's relational database service (RDS) is being used for the database and connected using PgAdmin. A csv file with all the raw data will be stored in a S3 bucket on AWS.
