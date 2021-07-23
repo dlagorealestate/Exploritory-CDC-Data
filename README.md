@@ -1,6 +1,7 @@
   ![image](https://user-images.githubusercontent.com/78933826/124337006-6d34e280-db6e-11eb-83d2-16ddbb123534.png)
 ![image](https://user-images.githubusercontent.com/78933826/124337024-7d4cc200-db6e-11eb-9151-866371aad9a2.png)
-  
+ 
+![image](Images/BigDataCovid.jpg) 
 
 ## The Purpose of this Analysis
 Over the past year and a half the Covid-19 pandemic had touched a lot of lives and changed the way we in the world lives day by day. One of the big issues with Covid-19 was the mis-information being spread. One of the pieces of mis-information was how the virus affected the population according to age. We were told that the young weren’t susceptible to the illness and how the elderly were at the greatest risk for Covid-19. Now after more than a year we have more data that we can analysis.
