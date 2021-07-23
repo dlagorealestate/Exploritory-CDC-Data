@@ -1,5 +1,5 @@
-  ![image](https://user-images.githubusercontent.com/78933826/124337006-6d34e280-db6e-11eb-83d2-16ddbb123534.png)
-![image](https://user-images.githubusercontent.com/78933826/124337024-7d4cc200-db6e-11eb-9151-866371aad9a2.png)
+ < ![image](https://user-images.githubusercontent.com/78933826/124337006-6d34e280-db6e-11eb-83d2-16ddbb123534.png)>
+<![image](https://user-images.githubusercontent.com/78933826/124337024-7d4cc200-db6e-11eb-9151-866371aad9a2.png)>
  
 ![image](Images/BigDataCovid.jpg) 
 
