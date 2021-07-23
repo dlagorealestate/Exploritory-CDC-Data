@@ -36,9 +36,7 @@ Data Analyst Team:  Luis Acevedo Jr., David Lago, Susanna Correia, Zarneisha Bro
 
 * After spliting the age group to 0 to 64 and 65 +, the group has decided to add more variables to the model: County, Sex and Ethnicity.
 
-![image](Images/DeathAge.png)
-![image](Images/DeathSex.jpg)
-![image](Images/DeathEthn.png)
+![image](Images/NewFeatures.png)
 
 The following is the link to Tableau Stories:
 
