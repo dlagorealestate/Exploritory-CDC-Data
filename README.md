@@ -30,3 +30,7 @@ Data Analyst Team:  Luis Acevedo Jr., David Lago, Susanna Correia, Zarneisha Bro
 ## Database
 
 * A Postgres database using AWS's relational database service (RDS) is being used for the database and connected using PgAdmin. A csv file with all the raw data will be stored in a S3 bucket on AWS.
+
+## New Tableau Data
+
+https://public.tableau.com/app/profile/susana.correia/viz/FloridaCovidData/Story1?publish=yes
