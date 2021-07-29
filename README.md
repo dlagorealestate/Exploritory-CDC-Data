@@ -50,3 +50,5 @@ https://public.tableau.com/app/profile/susana.correia/viz/CaseFatalityRates_Covi
 
 When we look at deaths and counties we see that there is no association between counties and mortality. The same happens with sex and ethnicity. No social or environmental assossiation with deaths. However it is different when we talk about Age Groups. We see significant difference between the two groups. After all, current data suggests that elderly are most at risk. Data shows a very large difference of the CFR by age. For COVID-19 cases we see that the elderly are at the greatest risk of dying, if infected with the virus. It is important to say that  the CFR (Case Mortality Rate) simply represents the number of deaths divided by the number of confirmed cases. It does not tell us the true risk of death, which is much harder to estimate. The CFR changes over time.
 
+![image](Images/CaseFatalityRates.png)
+
