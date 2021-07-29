@@ -40,3 +40,10 @@ The following is the link to Tableau Stories:
 
 
 https://public.tableau.com/app/profile/susana.correia/viz/FloridaCovidData/Story1?publish=yes
+
+* We have found that when we talk about Covid-19 related data, one of the terms we see is Case Fatality Rate, or CFR. CFR helped us understand how many of those with a confirmed diagnosis of COVID-19 die as a result of the disease.
+* Case Fatality Rate is calculated dividing the total number of deaths by the total number of Covid cases. For our project we have decided to analyze the probability of death in relation to sex, ethnicity, county and age group. So we have tried to identify potential risk factor for death using those different variables.
+
+https://public.tableau.com/app/profile/susana.correia/viz/CaseFatalityRates_Covid_FL/CaseFatalityRates?publish=yes
+
+## Conclusion
