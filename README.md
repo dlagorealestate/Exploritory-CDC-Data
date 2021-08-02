@@ -25,6 +25,9 @@ Data Analyst Team:  Luis Acevedo Jr., David Lago, Susanna Correia, Zarneisha Bro
 
 * A Neural network model using sk-learn and TensorFlow is used to explore the dataset.
 
+Result: Model Accuracy 97% and Model loss 0.08
+
+
  
 ## Database
 
